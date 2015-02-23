@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MAP524 Lab 3</string>
+    <string name="description">This is a mobile Android app such that a beginner can use to learn about the Android Development Framework. </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="app_title">Android Guide</string>
+    <string name="button_terminology"></string>
+    <string name="button_websites">http://scs.senecac.on.ca</string>
+    <string name="about">About Me:</string>
+    <string name="about_name">Name:Henry Hyungi Kim</string>
+    <string name="about_program">Program: CPA</string>
+    <string name="hello_terminology">Hello Terminiology</string>
+    <string name="help">Need Help?</string>
+    <string name="help_terminology">Terminology Button will show Android Terminology Search!</string>
+    <string name="help_website">Websites button will show page of some useful websites! :)</string>
+    <string-array name="websitesName">
+        <item>Google</item>
+        <item>My GitHub page</item>
+        <item>Scs Seneca</item>
+        <item>StackOverFlow</item>
+        <item>XDA</item>
+        <item>Johns Website</item>
+        <item>Google Android Developer Page</item>
+        <item>Android Annotations</item>
+    </string-array>
+    <string-array name="websitesArray">
+        <item>http://google.com</item>
+        <item>https://github.com/HenryKim</item>
+        <item>http://scs.senecac.on.ca</item>
+        <item>http://stackoverflow.com</item>
+        <item>http://www.xda-developers.com/</item>
+        <item>https://scs.senecac.on.ca/~john.selmys</item>
+        <item>http://developer.android.com/index.html</item>
+        <item>http://androidannotations.org/</item>
+    </string-array>
+    <string-array name="appdevterm">
+        <item>Adb</item>
+        <item>Emulator</item>
+        <item>Android</item>
+        <item>Screenshot2: </item>
+        <item>Gradle</item>
+        <item>Pm</item>
+        <item>Lint</item>
+        <item>Project</item>
+        <item>Panel</item>
+        <item>Toolbar</item>
+        <item>Status bar</item>
+        <item>Preview pane</item>
+        <item>Android pane</item>
+        <item>Project explorer</item>
+        <item>.idea folder</item>
+        <item>Intellisense</item>
+        <item>Module</item>
+        <item>Live layout</item>
+        <item>Lint</item>
+        <item>Commit</item>
+        <item>Push</item>
+        <item>Add</item>
+        <item>Pull</item>
+        <item>Branch</item>
+        <item>Clone</item>
+    </string-array>
+    <string-array name="appdevtermdef">
+        <item>ADB: In lab 1 I used adb command communicate emulated virtual device of android machine, and run app development.</item>
+        <item>Emulator: In lab 1 I used emulator command to emulate virtual device of android   machine and teat for out app.</item>
+        <item>Android: In lab 1 I used android command to control and manage avd, also I used android command to creat android porjects and update my android sdk</item>
+        <item>Screenshot2: In lab 1 I used screenshot2 command to take screenshot of current shell prompt. Without running any other program.</item>
+        <item>Gradle: In lab 1 I used gradle to build module for android developing. for example build.gradle is where I Set SDK version for android build and library to use. </item>
+        <item>Pm: In lab 1 I used pm command to use shell code in android device . In order to list packages in avd and uninstall my app </item>
+        <item>Lint : In lab 1 I used lint command to check my gradleproject has any html errors in lint.html</item>
+        <item>Project: In Android studio, project is where name refer current work, you working on it.  For example in lab2 project will be MAP524_lab2</item>
+        <item>Panel: In Android studio, panel is where show all current information of virtual device at the moment. It displays current process your studio working on and may enter codes or action.</item>
+        <item>Toolbar: In Android studio, toolbar is where all buttons for androids features  located. For example  SDK manager buttons located in toolbar.</item>
+        <item>Statusbar: In Android Studio, status bar is where show live process  (performance) of your device current time.</item>
+        <item>Preview: In Android Studio, preview pane is where show what will be halt when you run the code.</item>
+        <item>Pane: In Android studio, pane is where you adjust of your layout size  when debugged code. </item>
+        <item>Project: In Android Studio, project explorer is located at left side of window, where user can explorer directories of project currently working on.</item>
+        <item>.idea: In android studio, .idea directory contains sets for .xml files and contains portion of configuration data of your app.</item>
+        <item>Intellisence: In android studio, intellisence is where android studio helps to complete the code automatically.</item>
+        <item>Module: In Android Studio, module is where version of virtual device will use when they halt or runs code.</item>
+        <item>Live layout: In Android Studio, live layout is where shows live performance of debugged code.</item>
+        <item>Init: ​In GIT, init is where git initializes a directory as a Git repository</item>
+        <item>Commit: In GIT, commit is where records a snapshot of the staging area</item>
+        <item>Push: In Git, push is where you moves your new branches and data to a remote repository</item>
+        <item>Add: In Git, add is where adds  a file and data in to staging area</item>
+        <item>Pull: In Git, pull is where you fetch from a remote repository, and try to merge with current workstation branch</item>
+        <item>Branch: In Git, branch is where list ,create and manage of current workstations content</item>
+        <item>Clone: In Git, clone is a copy a git repository, so user can add on to it ex) clone()</item>
+    </string-array>
+</resources>
